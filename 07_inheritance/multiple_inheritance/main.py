@@ -2,7 +2,7 @@
 import unittest
 
 from project.employee import Employee
-from project.person import Person
+from project.reptile import Person
 from project.teacher import Teacher
 
 

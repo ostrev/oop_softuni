@@ -1,5 +1,5 @@
 from project.employee import Employee
-from project.person import Person
+from project.reptile import Person
 
 
 class Teacher(Person, Employee):

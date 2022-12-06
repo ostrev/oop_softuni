@@ -26,11 +26,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/SoftUni/git/oop_softuni/07_inheritance"
+    "last_opened_file_path": "D:/SoftUni/git/oop_softuni/07_inheritance/shop/project"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\git\oop_softuni\07_inheritance\shop\project" />
+      <recent name="D:\SoftUni\git\oop_softuni\07_inheritance\players_and_monsters\project" />
+      <recent name="D:\SoftUni\git\oop_softuni\07_inheritance\zoo\project" />
       <recent name="D:\SoftUni\git\oop_softuni\07_inheritance" />
       <recent name="D:\SoftUni\git\oop_softuni\07_inheritance\food" />
     </key>
@@ -42,7 +45,7 @@
       <recent name="D:\SoftUni\git\oop_softuni\05_classes_and_objects" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python tests.Python tests for main.Tests">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_inheritance/food" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_inheritance/need_for_speed" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_inheritance/food/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_inheritance/need_for_speed/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,17 +109,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for main.Tests.test_dog_eat" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for main.Tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_inheritance/single_inheritance" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_inheritance/shop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;main.Tests.test_dog_eat&quot;" />
+      <option name="_new_target" value="&quot;main.Tests&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -148,13 +151,27 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in main.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="oop_softuni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_inheritance/players_and_monsters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/07_inheritance/players_and_monsters/main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for main.Tests" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python tests.Python tests in main.py (1)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python tests.Python tests for main.Tests.test_dog_eat" />
-        <item itemvalue="Python tests.Python tests in main.py (1)" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>

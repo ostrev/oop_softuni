@@ -1,4 +1,4 @@
-from project.person import Food
+from project.reptile import Food
 
 
 class Fruit(Food):
