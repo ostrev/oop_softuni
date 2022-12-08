@@ -26,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/SoftUni/git/oop_softuni/09_encapsulation/restaurant/project/beverage"
+    "last_opened_file_path": "D:/SoftUni/git/oop_softuni"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -45,8 +45,8 @@
       <recent name="D:\SoftUni\git\oop_softuni\05_classes_and_objects\to_do_list" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for main.TestsMovieWorld.test_dvd_class_method">
+    <configuration name="dvd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_encapsulation/restaurant" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_class_and_static_methods/movie_world/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_encapsulation/restaurant/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_class_and_static_methods/movie_world/project/dvd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_encapsulation/football_team_generator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_class_and_static_methods/movie_world" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_encapsulation/football_team_generator/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_class_and_static_methods/movie_world/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,69 +88,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for main.Tests.test_pizza_add_topping_new" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for main.TestsMovieWorld" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_encapsulation/pizza_maker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_class_and_static_methods/movie_world" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;main.Tests.test_pizza_add_topping_new&quot;" />
+      <option name="_new_target" value="&quot;main.TestsMovieWorld&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for main.Tests.test_pizza_add_topping_update" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for main.TestsMovieWorld.test_dvd_class_method" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_encapsulation/pizza_maker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_class_and_static_methods/movie_world" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;main.Tests.test_pizza_add_topping_update&quot;" />
+      <option name="_new_target" value="&quot;main.TestsMovieWorld.test_dvd_class_method&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for main.Tests.test_pizza_calculate_total_weight" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for main.TestsMovieWorld.test_dvd_repr" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_encapsulation/pizza_maker" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_class_and_static_methods/movie_world" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;main.Tests.test_pizza_calculate_total_weight&quot;" />
+      <option name="_new_target" value="&quot;main.TestsMovieWorld.test_dvd_repr&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in main.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="oop_softuni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_classes_and_objects/library" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/05_classes_and_objects/library/main.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python tests.Python tests for main.TestsMovieWorld.test_dvd_class_method" />
+        <item itemvalue="Python tests.Python tests for main.TestsMovieWorld" />
+        <item itemvalue="Python tests.Python tests for main.TestsMovieWorld.test_dvd_repr" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python tests.Python tests for main.Tests.test_pizza_calculate_total_weight" />
-        <item itemvalue="Python tests.Python tests for main.Tests.test_pizza_add_topping_update" />
-        <item itemvalue="Python tests.Python tests for main.Tests.test_pizza_add_topping_new" />
+        <item itemvalue="Python.dvd" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +188,31 @@
           <url>file://$PROJECT_DIR$/09_encapsulation/wild_cat_zoo/main.py</url>
           <line>31</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11_class_and_static_methods/photo_album.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11_class_and_static_methods/photo_album.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11_class_and_static_methods/photo_album.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11_class_and_static_methods/movie_world/main.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11_class_and_static_methods/movie_world/main.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
