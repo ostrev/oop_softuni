@@ -34,7 +34,6 @@ class TruckDriverTest(TestCase):
             self.truck.add_cargo_offer('Varna', 250)
         self.assertEqual("Cargo offer is already added.", str(ex.exception))
 
-    # todo proverka za nevalidni scenarii
     def test_add_cargo_correct(self):
         self.truck.add_cargo_offer('Sofiq', 250)
         self.truck.add_cargo_offer('Varna', 450)
