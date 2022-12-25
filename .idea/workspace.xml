@@ -26,104 +26,104 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/git/oop_softuni&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/git/oop_softuni/24_exam_preparation/05_Python OOP Exam - 11 December 2021/exam_skeleton/project/helper&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\git\oop_softuni\24_exam_preparation\05_Python OOP Exam - 11 December 2021\exam_skeleton\project\helper" />
       <recent name="D:\SoftUni\git\oop_softuni\09_encapsulation\restaurant\project\beverage" />
       <recent name="D:\SoftUni\git\oop_softuni\09_encapsulation\restaurant\project\food" />
       <recent name="D:\SoftUni\git\oop_softuni\09_encapsulation\wild_cat_zoo\project" />
       <recent name="D:\SoftUni\git\oop_softuni\07_inheritance\shop\project" />
-      <recent name="D:\SoftUni\git\oop_softuni\07_inheritance\players_and_monsters\project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftUni\git\oop_softuni\24_exam_preparation\05_Python OOP Exam - 11 December 2021\exam_skeleton" />
       <recent name="D:\SoftUni\git\oop_softuni\11_class_and_static_methods\gym\project" />
       <recent name="D:\SoftUni\git\oop_softuni\09_encapsulation\football_team_generator" />
       <recent name="D:\SoftUni\git\oop_softuni\09_encapsulation\pizza_maker" />
       <recent name="D:\SoftUni\git\oop_softuni\05_classes_and_objects\guild_system" />
-      <recent name="D:\SoftUni\git\oop_softuni\05_classes_and_objects\guild_system\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_paint_factory.FactoryTest.test_products_property">
-    <configuration name="Python tests for test_paint_factory.FactoryTest.test_can_add_is_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_correct">
+    <configuration name="Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_correct" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_paint_factory.FactoryTest.test_can_add_is_negative&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TruckDriverTest.test_add_cargo_correct&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_paint_factory.FactoryTest.test_can_add_is_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_paint_factory.FactoryTest.test_can_add_is_positive&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_paint_factory.FactoryTest.test_can_add_is_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity_have_miles" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_paint_factory.FactoryTest.test_can_add_is_zero&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity_have_miles&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_paint_factory.FactoryTest.test_products_property" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_truck_driver.TruckDriverTest.test_earned_money_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_paint_factory.FactoryTest.test_products_property&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TruckDriverTest.test_earned_money_zero&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_paint_factory.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_truck_driver.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test/test_paint_factory.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_paint_factory.FactoryTest.test_products_property" />
-        <item itemvalue="Python tests.Python tests in test_paint_factory.py" />
-        <item itemvalue="Python tests.Python tests for test_paint_factory.FactoryTest.test_can_add_is_negative" />
-        <item itemvalue="Python tests.Python tests for test_paint_factory.FactoryTest.test_can_add_is_positive" />
-        <item itemvalue="Python tests.Python tests for test_paint_factory.FactoryTest.test_can_add_is_zero" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_correct" />
+        <item itemvalue="Python tests.Python tests in test_truck_driver.py" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity_have_miles" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity2" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_earned_money_zero" />
       </list>
     </recent_temporary>
   </component>
@@ -291,19 +291,129 @@
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test/test_paint_factory.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="88" />
+          <url>file://$PROJECT_DIR$/24_exam_preparation/09_Python OOP Retake Exam - 22 Aug 2020/project/everland.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/project/factory/paint_factory.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="92" />
+          <url>file://$PROJECT_DIR$/24_exam_preparation/09_Python OOP Retake Exam - 22 Aug 2020/project/main.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/24_exam_preparation/Python OOP Exam - 16 Aug 2020/problem_3/test/test_paint_factory.py</url>
-          <line>69</line>
-          <option name="timeStamp" value="93" />
+          <url>file://$PROJECT_DIR$/24_exam_preparation/08_Python OOP Exam - 10 April 2021/exam_skeleton/project/aquarium/base_aquarium.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/08_Python OOP Exam - 10 April 2021/exam_skeleton/project/controller.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/06_Python OOP Retake Exam - 23 August 2021/exam_skeleton/project/main.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/06_Python OOP Retake Exam - 23 August 2021/exam_skeleton/project/space_station.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/05_Python OOP Exam - 11 December 2021/exam_skeleton/project/controller.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/05_Python OOP Exam - 11 December 2021/exam_skeleton/project/main.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/04_Python OOP Exam - 10 April 2022/exam_skeleton/project/controller.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/04_Python OOP Exam - 10 April 2022/exam_skeleton/project/controller.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/04_Python OOP Exam - 10 April 2022/exam_skeleton/project/main.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/10_Python OOP Exam - 16 Aug 2020/problem_3/test/test.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/03_Python OOP Retake Exam - 18 April 2022/project/test/test_plantation.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/03_Python OOP Retake Exam - 18 April 2022/project/test/test_plantation.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/02_Python OOP Exam - 14 August 2022/exam_skeleton/project/main.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/02_Python OOP Exam - 14 August 2022/project/test/test_bookstore.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/01_Python OOP Retake Exam - 22 August 2022/exam_skeleton/project/client.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/01_Python OOP Retake Exam - 22 August 2022/exam_skeleton/project/main.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/exam_skeleton/project/main.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/exam_skeleton/project/main.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/truck_driver.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="208" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
