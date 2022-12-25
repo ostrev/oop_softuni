@@ -38,7 +38,11 @@ class TruckDriverTest(TestCase):
         self.truck.add_cargo_offer('Sofiq', 250)
         self.truck.add_cargo_offer('Varna', 450)
         self.assertEqual({'Sofiq': 250, 'Varna': 450}, self.truck.available_cargos)
-        self.assertEqual('Cargo for {cargo_miles} to {cargo_location} was added as an offer.', self.truck.add_cargo_offer())
+
+    def test_add_cargo_return(self):
+        self.assertEqual('Cargo for 450 to Varna was added as an offer.', self.truck.add_cargo_offer('Varna', 450))
+
+
     def test_drive_best_cargo_offer_rais_error(self):
         self.assertEqual("There are no offers available.", self.truck.drive_best_cargo_offer())
 
