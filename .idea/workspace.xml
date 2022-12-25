@@ -22,14 +22,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SoftUni/git/oop_softuni/24_exam_preparation/05_Python OOP Exam - 11 December 2021/exam_skeleton/project/helper&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/SoftUni/git/advanced_softuni",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\SoftUni\git\oop_softuni\24_exam_preparation\05_Python OOP Exam - 11 December 2021\exam_skeleton\project\helper" />
@@ -46,7 +46,7 @@
       <recent name="D:\SoftUni\git\oop_softuni\05_classes_and_objects\guild_system" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_correct">
+  <component name="RunManager" selected="Python tests.Python tests in test_truck_driver.py">
     <configuration name="Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_correct" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +58,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_truck_driver.TruckDriverTest.test_add_cargo_correct&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_return" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="oop_softuni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TruckDriverTest.test_add_cargo_return&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -89,20 +103,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_truck_driver.TruckDriverTest.test_earned_money_zero" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="oop_softuni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_truck_driver.TruckDriverTest.test_earned_money_zero&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in test_truck_driver.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="oop_softuni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_correct" />
         <item itemvalue="Python tests.Python tests in test_truck_driver.py" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_return" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_add_cargo_correct" />
         <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity_have_miles" />
         <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_drive_best_cargo_offer_no_activity2" />
-        <item itemvalue="Python tests.Python tests for test_truck_driver.TruckDriverTest.test_earned_money_zero" />
       </list>
     </recent_temporary>
   </component>
@@ -397,17 +397,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py</url>
-          <line>103</line>
+          <line>106</line>
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py</url>
-          <line>110</line>
+          <line>113</line>
           <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/24_exam_preparation/00_Python OOP Retake Exam - 19 December 2022/unit_test/project/test/test_truck_driver.py</url>
-          <line>80</line>
+          <line>83</line>
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
